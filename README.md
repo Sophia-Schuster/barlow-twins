@@ -25,7 +25,7 @@ python btCode.py
 
 # Avaliar Encoder
 
-Para avaliar seu modelo de Encoder você deve antes passar pela etapa anterior, então sera gerado um arquivo "encoder_model.h5"deixe ele na pasta principal onde foi gerado, salve o dataset desejado para se obter features na pasta ./data, por exemplo outros 5 subconjuntos do dataset https://physionet.org/content/apnea-ecg/1.0.0/ e execute:
+Para avaliar seu modelo de Encoder você deve antes passar pela etapa anterior, então sera gerado um arquivo "encoder_model.h5"deixe ele na pasta principal onde foi gerado, salve o dataset desejado para se obter features na pasta ./data, por exemplo outros 5 subconjuntos do dataset https://physionet.org/content/apnea-ecg/1.0.0/ que esta em data_avaliation e execute:
 
 
 ```bash
